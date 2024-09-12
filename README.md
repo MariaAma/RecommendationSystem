@@ -17,5 +17,4 @@
 ![anime_recommendations - Personal - Microsoft​ Edge 9_10_2024 9_43_12 PM](https://github.com/user-attachments/assets/606f46ed-880b-4f54-890f-ced19751d312)
 
 ## Acknowledgments
-- Data source: [Kaggle](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database)
-
+- Data source: [Kaggle](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) : I am working with two CSV files: anime.csv and rating.csv.
